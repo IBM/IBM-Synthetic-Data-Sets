@@ -54,9 +54,11 @@ example:
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request -->
+## Versioning & Changes
+Details about version control and updates can be found in the [CHANGELOG.md](./CHANGELOG.md).
 
 ## License
-If you would like to see the detailed LICENSE click [here](https://github.com/IBM/IBM-Synthetic-Data-Sets/blob/main/LICENSE).
+If you would like to see the detailed LICENSE click [here](LICENSE).
 
 
 <!--All source files must include a Copyright and License header. The SPDX license header is 
