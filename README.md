@@ -27,8 +27,8 @@ Additonal Resources:
 - Product Page - https://www.ibm.com/products/synthetic-data-sets
 - IBM Redbooks - https://www.redbooks.ibm.com/abstracts/redp5748.html
  
+If you have any questions or issues you can contact Joy Deng (Product Manager, IBM Synthetic Data Sets) - joy.deng@ibm.com
 
-If you have any questions or issues you can contact Joy Deng - joy.deng@ibm.com 
 
 <!-- A notes section is useful for anything that isn't covered in the Usage or Scope. Like what we have below. -->
 <!-- ## Notes
