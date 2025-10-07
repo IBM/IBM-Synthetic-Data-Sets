@@ -1,9 +1,9 @@
 # MAINTAINERS
 
-Mo McElaney - mmcelaney@us.ibm.com
+Yadu Nandan B - yadu.b.nandan@ibm.com
 
-JJ Asghar - jja@ibm.com
+Erik Altman - ealtman@us.ibm.com
 
-Joe Sepi - joesepi@ibm.com
+Goutham Binnadi Gopala  - Goutham.Binnadi.Gopala@ibm.com
 
-Brad Topol - btopol@us.ibm.com
+Saurabh Srivastava - saurabh.srivastava4@ibm.com
